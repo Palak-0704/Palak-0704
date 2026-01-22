@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A curious engineer turning data and ideas into meaningful solutions</h3>
 <img align="right" alt="GIF" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif" />
+
 - 🔭 I’m currently **Chasing ideas, dodging unnecessary stress**
 
 - 🌱 I’m currently **Experimenting code, surviving student life**
