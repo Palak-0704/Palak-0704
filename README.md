@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **Experimenting code, surviving student life**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available on GitHub
 
 - 💬 Ask me about **Python, Machine learning**
 
