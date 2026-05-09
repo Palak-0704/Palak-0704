@@ -23,7 +23,7 @@
   <tr>
     <td><a href="https://linkedin.com/in/palak-prasad-601595289"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45" /></a></td>
     <td><a href="https://instagram.com/_palakprasad_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" /></a></td>
-    <td><a href="https://www.leetcode.com/__palak_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45" /></a></td>
+    <td><a href="https://leetcode.com/u/CodeO_O/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45" /></a></td>
   </tr>
 </table>
 
